@@ -3,6 +3,8 @@
 Технічні ресурси українською для перекладу і вивчення.
 Для UTLC (Ukrainian Technical L10n Community - https://discord.gg/2rqy8bQY)
 
+Keywords: Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську
+
 ## Клієнтська частина
 
 ### Фреймворки
