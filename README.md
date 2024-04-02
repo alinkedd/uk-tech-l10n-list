@@ -1,4 +1,4 @@
-# utlc-list
+# utlc-project-list
 
 Технічні ресурси українською для перекладу і вивчення.
 Для UTLC (Ukrainian Technical L10n Community - https://discord.gg/2rqy8bQY)
