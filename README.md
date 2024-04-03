@@ -16,6 +16,7 @@ Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Loca
 
 #### Спільноти, що також мають проєкти із технічної локалізації/перекладу
 - https://github.com/rust-lang-ua
+- https://github.com/GolangUA
 
 ## Елементи комп'ютерних наук та інженерії програмного забезпечення
 
@@ -25,12 +26,27 @@ Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Loca
 - Вебсайт: https://rustlangua.github.io/rustbookua.github.io/ ([en](https://doc.rust-lang.org/book/index.html))
 - Система перекладу: GitHub — https://github.com/rust-lang-ua/rustbook_ukrainian
 
-#### [Онлайн-документація] Python (official)
+#### [Тур] A Tour of Go (recognized?)
+- Вебсайт: https://go-tour-ua-translation.lm.r.appspot.com/list ([en](https://go.dev/tour/list))
+- Система перекладу: GitHub — https://github.com/GolangUA/go-tour-ua-translation ([en]())
+- Мейнтейнери: https://github.com/GolangUA
+
+#### [Шпаргалка] Go by Example (recognized)
+- Вебсайт: https://butuzov.github.io/gobyexample/ ([en](https://gobyexample.com/))
+- Система перекладу: GitHub — https://github.com/butuzov/gobyexample ([en](https://github.com/mmcgrana/gobyexample))
+- Мейнтейнери: @butuzov
+
+#### [Документація] Python (official)
 - Вебсайт: https://docs.python.org/uk/ ([en](https://docs.python.org/))
 - Система перекладу: Transifex — https://explore.transifex.com/python-doc/python-newest/
 - Як долучитися: https://github.com/python/python-docs-uk
 
-#### [Онлайн-підручник] The Modern JavaScript Tutorial (official)
+#### [Документація] PHP (official)
+- Вебсайт: не опубліковано ([en](https://docs.python.org/))
+- Система перекладу: GitHub — https://github.com/php/doc-uk
+- Як долучитися: https://doc.php.net/tutorial/
+
+#### [Підручник] The Modern JavaScript Tutorial (official)
 - Вебсайт: https://uk.javascript.info/ ([en](https://javascript.info/))
 - Система перекладу: GitHub — https://github.com/javascript-tutorial/uk.javascript.info ([en](https://github.com/javascript-tutorial/en.javascript.info))
 - Як долучитися: https://javascript.info/translate
@@ -66,16 +82,17 @@ ready, errata only
 
 ### Мережі
 
-#### [Онлайн-комікс] How DNS Works (official?)
+#### [Комікс] How DNS Works (official?)
 - Вебсайт: https://howdns.works/uk/ ([en](https://howdns.works/))
 - Система перекладу: GitHub (YAML-файли) — https://github.com/sleptsov/howdnsworks
 - Мейнтейнери: @sleptsov
 
 ## Клієнтська частина
 
-### Фреймворки
+### UI фреймворки
 
-#### [Онлайн-документація] React (official)
+#### [Документація] React (official)
+https://translations.react.dev/
 - Вебсайт: https://uk.react.dev/ ([en](https://react.dev/))
 - Система перекладу: GitHub (застосунок) — https://github.com/reactjs/uk.react.dev ([en](https://github.com/reactjs/react.dev))
 - Задачі та прогрес перекладу: https://github.com/reactjs/uk.react.dev/issues/457
@@ -85,10 +102,17 @@ ready, errata only
 - Оновлення на вебсайті: автоматично (після потрапляння до головної гілки репозиторію)
 - Мейнтейнери: @alinkedd, @bkatsevych
 
-#### [Онлайн-документація] Vue 3 (official)
+#### [Документація] Vue 3 (official)
 - Вебсайт: https://ua.vuejs.org/ ([en](https://vuejs.org/))
 - Система перекладу: GitHub — https://github.com/vuejs-translations/docs-uk ([en](https://github.com/vuejs/docs))
 - Правила перекладу проєкту: https://github.com/vuejs-translations/docs-uk/wiki
+- Мейнтейнери: https://github.com/vuejs-ua
+
+### Бібліотеки управління станом
+
+#### [Документація] Pinia (official?)
+- Вебсайт: https://pinia-ua.netlify.app/ ([en](https://pinia.vuejs.org/))
+- Система перекладу: GitHub — https://github.com/vuejs-ua/pinia ([en](https://github.com/vuejs/pinia))
 - Мейнтейнери: https://github.com/vuejs-ua
 
 ## Серверна частина
@@ -97,7 +121,7 @@ ready, errata only
 
 ### Інструменти
 
-#### [Онлайн-документація] Kubernetes (official)
+#### [Документація] Kubernetes (official)
 - Вебсайт: https://kubernetes.io/uk/ ([en](https://kubernetes.io/))
 - Система перекладу: GitHub — https://github.com/kubernetes/website
 - Правила перекладу проєкту: https://kubernetes.io/uk/docs/contribute/localization_uk/
@@ -138,7 +162,8 @@ ready, errata only
 ## TO SORT OUT
 - https://learn.microsoft.com/uk-ua/docs/
 - проєкти vuejs-ua
-- https://github.com/php/doc-uk
+- проєкти https://github.com/GolangUA
+- https://redux.js.org/introduction/learning-resources#redux-docs-translations
 - https://github.com/GolangUA/go-tour-ua-translation
 - https://github.com/LambdaBooks/thelittlebookofruby
 - https://github.com/koresar/ra-language-ukrainian
