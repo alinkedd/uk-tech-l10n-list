@@ -1,6 +1,6 @@
 # utlc-project-list
 
-Відкриті технічні ресурси українською для перекладу і вивчення. IT-тематика поки що. By UTLC.
+WIP. Відкриті технічні ресурси українською для перекладу і вивчення. IT-тематика поки що. By UTLC.
 
 Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську
 
