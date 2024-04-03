@@ -133,7 +133,11 @@ ready, errata only
 - Оновлення на вебсайті: вручну (просити SachaG в спільноті https://discord.com/invite/zRDb35jfrt)
 - Мейнтейнери: @alinkedd
 
+---
+
 ## TO SORT OUT
+- https://learn.microsoft.com/uk-ua/docs/
+- проєкти vuejs-ua
 - https://github.com/php/doc-uk
 - https://github.com/GolangUA/go-tour-ua-translation
 - https://github.com/LambdaBooks/thelittlebookofruby
@@ -145,3 +149,7 @@ ready, errata only
 - https://github.com/ntuukpi/books/blob/master/not_so_short_intro_to_latex.pdf
 - https://github.com/knureigs/CoppeliaSimUserManual_ua
 - https://github.com/dmytro/sag_ukrainian
+- https://github.com/hrvadl/goweekly
+
+### Issues
+- https://github.com/symfony/symfony/issues/53782
