@@ -1,8 +1,8 @@
 # utlc-project-list
 
-Відкриті технічні ресурси українською для перекладу і вивчення. By UTLC.
+Відкриті технічні ресурси українською для перекладу і вивчення. IT-тематика поки що. By UTLC.
 
-Keywords: Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську
+Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську
 
 ### Спільноти
 
@@ -17,7 +17,7 @@ Keywords: Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation
 #### Спільноти, що також мають проєкти із технічної локалізації/перекладу
 - https://github.com/rust-lang-ua
 
-## Основи програмування
+## Елементи комп'ютерних наук та інженерії програмного забезпечення
 
 ### Мови програмування
 
@@ -25,7 +25,7 @@ Keywords: Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation
 - Вебсайт: https://rustlangua.github.io/rustbookua.github.io/ ([en](https://doc.rust-lang.org/book/index.html))
 - Система перекладу: GitHub — https://github.com/rust-lang-ua/rustbook_ukrainian
 
-### [Онлайн-документація] Python (official)
+#### [Онлайн-документація] Python (official)
 - Вебсайт: https://docs.python.org/uk/ ([en](https://docs.python.org/))
 - Система перекладу: Transifex — https://explore.transifex.com/python-doc/python-newest/
 - Як долучитися: https://github.com/python/python-docs-uk
@@ -63,6 +63,13 @@ ready, errata only
 - Вебсайт: https://git-scm.com/book/uk/v2 ([en](https://git-scm.com/book/en/v2))
 - Система перекладу: GitHub — https://github.com/progit/progit2-uk ([en](https://github.com/progit/progit2))
 - Правила перекладу проєкту: https://github.com/progit/progit2-uk/blob/master/TRANSLATING.md
+
+### Мережі
+
+#### [Онлайн-комікс] How DNS Works (official?)
+- Вебсайт: https://howdns.works/uk/ ([en](https://howdns.works/))
+- Система перекладу: GitHub (YAML-файли) — https://github.com/sleptsov/howdnsworks
+- Мейнтейнери: @sleptsov
 
 ## Клієнтська частина
 
@@ -125,3 +132,16 @@ ready, errata only
 - Синхронізація із джерелом: вручну (або можна використовувати невеликий скрипт https://github.com/alinkedd/devographics-translation-sync)
 - Оновлення на вебсайті: вручну (просити SachaG в спільноті https://discord.com/invite/zRDb35jfrt)
 - Мейнтейнери: @alinkedd
+
+## TO SORT OUT
+- https://github.com/php/doc-uk
+- https://github.com/GolangUA/go-tour-ua-translation
+- https://github.com/LambdaBooks/thelittlebookofruby
+- https://github.com/koresar/ra-language-ukrainian
+- https://github.com/swiftbookua/swiftbookua
+- https://github.com/dlang-tour/ukrainian
+- https://github.com/ror6ax/circles-sines-signals
+- https://github.com/ivanzusko/mostly-adequate-guide-uk
+- https://github.com/ntuukpi/books/blob/master/not_so_short_intro_to_latex.pdf
+- https://github.com/knureigs/CoppeliaSimUserManual_ua
+- https://github.com/dmytro/sag_ukrainian
