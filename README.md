@@ -44,7 +44,7 @@ ready, errata only
 #### [Книга] You Don't Know JS Yet 2-е видання (recognized?)
 - Вебсайт: ?
 - Система перекладу: GitHub — https://github.com/kottans/You-Dont-Know-JS-Yet-UK ([en](https://github.com/getify/You-Dont-Know-JS))
-- Мейнтейнери: https://github.com/LambdaBooks
+- Мейнтейнери: https://github.com/kottans
 
 #### [Книга] TypeScript Deep Dive (recognized)
 - Вебсайт: https://artfulbits-se.gitbook.io/typescript ([en](https://basarat.gitbook.io/typescript))
