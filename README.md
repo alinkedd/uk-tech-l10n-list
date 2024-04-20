@@ -132,6 +132,10 @@ https://translations.react.dev/
 
 ### Лістинги, списки
 
+#### Coding Interview University
+- Вебсайт: ? — https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uk.md
+- Система перекладу: GitHub — https://github.com/jwasham/coding-interview-university
+
 #### Teach Yourself Computer Science 2020 (recognized)
 - Вебсайт: ? — https://github.com/oleksbabieiev/TeachYourselfCS-UK/blob/master/TeachYourselfCS-UK.md ([en](https://teachyourselfcs.com/))
 - Система перекладу: GitHub — https://github.com/oleksbabieiev/TeachYourselfCS-UK
