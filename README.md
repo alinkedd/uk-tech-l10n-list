@@ -1,6 +1,6 @@
 # Відкриті технічні ресурси українською для перекладу і вивчення
 
-WIP
+_Цей список постійно оновлюється. Якщо хочете додати щось або виправити, [створіть запит тут](https://github.com/alinkedd/uk-tech-l10n-list/issues/new)._
 
 Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську, uk-UA, ukr
 
