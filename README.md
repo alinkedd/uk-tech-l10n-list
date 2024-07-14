@@ -27,22 +27,22 @@ _Цей список постійно оновлюється. Якщо хоче�
 #### [Книга] The Rust Programming Language
 
 - Статус перекладу: визнаний
-- Вебсайт: https://rustlangua.github.io/rustbookua.github.io/ ([en](https://doc.rust-lang.org/book/index.html))
-- Система перекладу: GitHub — https://github.com/rust-lang-ua/rustbook_ukrainian
+- Вебсайт: [https://rustlangua.github.io/rustbookua.github.io/](https://rustlangua.github.io/rustbookua.github.io/) ([en](https://doc.rust-lang.org/book/index.html))
+- Система перекладу: GitHub — [https://github.com/rust-lang-ua/rustbook_ukrainian](https://github.com/rust-lang-ua/rustbook_ukrainian)
 
 #### [Інтерактив] A Tour of Go
 
 - Статус перекладу: визнаний?
-- Вебсайт: https://go-tour-ua-translation.lm.r.appspot.com/list ([en](https://go.dev/tour/list))
-- Система перекладу: GitHub — https://github.com/GolangUA/go-tour-ua-translation ([en]())
-- Мейнтейнери: https://github.com/GolangUA
+- Вебсайт: [https://go-tour-ua-translation.lm.r.appspot.com/list](https://go-tour-ua-translation.lm.r.appspot.com/list) ([en](https://go.dev/tour/list))
+- Система перекладу: GitHub — [https://github.com/GolangUA/go-tour-ua-translation](https://github.com/GolangUA/go-tour-ua-translation)
+- Мейнтейнери: [@GolangUA](https://github.com/GolangUA)
 
 #### [Шпаргалка] Go by Example
 
 - Статус перекладу: визнаний
 - Вебсайт: [https://butuzov.github.io/gobyexample/](https://butuzov.github.io/gobyexample/) ([en](https://gobyexample.com/))
 - Система перекладу: GitHub — [https://github.com/butuzov/gobyexample](https://github.com/butuzov/gobyexample) ([en](https://github.com/mmcgrana/gobyexample))
-- Мейнтейнери: @butuzov
+- Мейнтейнери: [@butuzov](https://github.com/butuzov)
 
 #### [Документація] Python
 
