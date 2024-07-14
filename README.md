@@ -2,8 +2,6 @@
 
 _Цей список постійно оновлюється. Якщо хочете додати щось або виправити, [створіть запит тут](https://github.com/alinkedd/uk-tech-l10n-list/issues/new)._
 
-Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську, uk-UA, ukr
-
 ### Спільноти
 
 #### Cпільноти, що займаються технічною локалізацією/перекладом
@@ -161,3 +159,7 @@ https://translations.react.dev/
 - Синхронізація із джерелом: вручну (або можна використовувати невеликий скрипт https://github.com/alinkedd/devographics-translation-sync)
 - Оновлення на вебсайті: вручну (просити SachaG в спільноті https://discord.com/invite/zRDb35jfrt)
 - Мейнтейнери: @alinkedd
+
+## Інше
+
+Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську, uk-UA, ukr
