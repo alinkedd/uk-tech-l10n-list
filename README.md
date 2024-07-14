@@ -163,3 +163,7 @@ https://translations.react.dev/
 ## Інше
 
 Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Localisation, переклади українською, переклади на українську, uk-UA, ukr
+
+### Ліцензія
+
+Ліцензія CC0 1.0 Universal для цього списку.
