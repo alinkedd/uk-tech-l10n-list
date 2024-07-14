@@ -17,6 +17,7 @@ Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Loca
 #### Спільноти, що також мають проєкти із технічної локалізації/перекладу
 - https://github.com/rust-lang-ua
 - https://github.com/GolangUA
+- [Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/translating-for-raspberry-pi/0)
 
 ## Елементи комп'ютерних наук та інженерії програмного забезпечення
 
