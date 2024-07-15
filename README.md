@@ -225,4 +225,4 @@ Keywords: Awesome Ukrainian Translations, Ukrainian Localization, Ukrainian Loca
 
 ### Ліцензія
 
-Ліцензія CC0 1.0 Universal для цього списку.
+Ліцензія [CC0 1.0 Універсальна](https://creativecommons.org/publicdomain/zero/1.0/deed.uk) для цього списку.
