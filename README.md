@@ -83,9 +83,10 @@ _Цей список постійно оновлюється. Якщо хоче�
 #### [Документація] PHP
 
 - Статус перекладу: офіційний
-- Вебсайт: не опубліковано ([en](https://docs.python.org/))
+- Вебсайт: [https://www.php.net/manual/uk/](https://www.php.net/manual/uk/) ([en](https://www.php.net/manual/en/))
 - Система перекладу: GitHub — [https://github.com/php/doc-uk](https://github.com/php/doc-uk)
-- Як долучитися: [https://doc.php.net/tutorial/](https://doc.php.net/tutorial/)
+- Як долучитися: [http://doc.php.net/tutorial](http://doc.php.net/tutorial)
+- Мейнтейнери: [@mproshchuk](https://github.com/mproshchuk)
 
 #### [Підручник] The Modern JavaScript Tutorial
 
