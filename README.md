@@ -203,11 +203,54 @@ _Скоро буде._
 #### [Документація] Kubernetes
 
 - Статус перекладу: офіційний
+- Стан перекладу: незавершений
 - Вебсайт: [https://kubernetes.io/uk/](https://kubernetes.io/uk/) ([en](https://kubernetes.io/))
 - Система перекладу: GitHub — [https://github.com/kubernetes/website](https://github.com/kubernetes/website)
 - Правила перекладу проєкту: [https://kubernetes.io/uk/docs/contribute/localization_uk/](https://kubernetes.io/uk/docs/contribute/localization_uk/)
 - Мейнтейнери: [@MaxymVlasov](https://github.com/MaxymVlasov), [@Arhell](https://github.com/Arhell)
 - Активні перекладачі: [@Andygol](https://github.com/Andygol)
+
+#### [Документація] Kubernetes
+
+- Статус перекладу: неофіційний
+- Стан перекладу: завершений
+- Вебсайт: [https://andygol-k8s.netlify.app/uk/](https://andygol-k8s.netlify.app/uk/) ([en](https://kubernetes.io/))
+- Система перекладу: GitHub — [https://github.com/Andygol/k8s-website](https://github.com/Andygol/k8s-website)
+- Мейнтейнери: [@Andygol](https://github.com/Andygol)
+
+> **Примітка**: Цей переклад може стати офіційним за вашої підтримки! [Запит на злиття](https://github.com/kubernetes/website/pull/48551).
+
+#### [Документація] Istio
+
+- Статус перекладу: офіційний
+- Стан перекладу: завершений
+- Вебсайт: [https://istio.io/uk](https://istio.io/uk) ([en](https://istio.io/))
+- Система перекладу: GitHub — [https://github.com/istio/istio.io](https://github.com/istio/istio.io)
+- Мейнтейнери: [@Andygol](https://github.com/Andygol)
+
+#### [Документація] Helm
+
+- Статус перекладу: офіційний
+- Стан перекладу: завершений
+- Вебсайт: [https://helm.sh/uk/](https://helm.sh/uk/) ([en](https://helm.sh/))
+- Система перекладу: GitHub — [https://github.com/helm/helm-www](https://github.com/helm/helm-www)
+- Мейнтейнери: [@Andygol](https://github.com/Andygol)
+
+#### [Документація] Helm
+
+- Статус перекладу: неофіційний
+- Стан перекладу: завершений
+- Вебсайт: [https://andygol-helm.netlify.app/uk/](https://andygol-helm.netlify.app/uk/) ([en](https://helm.sh/))
+- Система перекладу: GitHub — [https://github.com/Andygol/helm-www](https://github.com/Andygol/helm-www)
+- Мейнтейнери: [@Andygol](https://github.com/Andygol)
+  
+#### [Документація] OpenTelemetry
+
+- Статус перекладу: неофіційний
+- Стан перекладу: завершений, оновлений
+- Вебсайт: [https://andygol-otel.netlify.app/uk/](https://andygol-otel.netlify.app/uk/) ([en](https://opentelemetry.io/))
+- Система перекладу: GitHub — [https://github.com/Andygol/opentelemetry.io](https://github.com/Andygol/opentelemetry.io)
+- Мейнтейнери: [@Andygol](https://github.com/Andygol)
 
 ## Навчання
 
