@@ -203,7 +203,7 @@ _Скоро буде._
 #### [Документація] Kubernetes
 
 - Статус перекладу: офіційний
-- Стан перекладу: незавершений
+- Стан перекладу: незавершений (покинутий)
 - Вебсайт: [https://kubernetes.io/uk/](https://kubernetes.io/uk/) ([en](https://kubernetes.io/))
 - Система перекладу: GitHub — [https://github.com/kubernetes/website](https://github.com/kubernetes/website)
 - Правила перекладу проєкту: [https://kubernetes.io/uk/docs/contribute/localization_uk/](https://kubernetes.io/uk/docs/contribute/localization_uk/)
@@ -215,7 +215,7 @@ _Скоро буде._
 - Статус перекладу: неофіційний
 - Стан перекладу: завершений
 - Вебсайт: [https://andygol-k8s.netlify.app/uk/](https://andygol-k8s.netlify.app/uk/) ([en](https://kubernetes.io/))
-- Система перекладу: GitHub — [https://github.com/Andygol/k8s-website](https://github.com/Andygol/k8s-website)
+- Система перекладу: GitHub — [https://github.com/Andygol/k8s-website/tree/main-uk-wip](https://github.com/Andygol/k8s-website/tree/main-uk-wip)
 - Мейнтейнери: [@Andygol](https://github.com/Andygol)
 
 > **Примітка**: Цей переклад може стати офіційним за вашої підтримки! [Запит на злиття](https://github.com/kubernetes/website/pull/48551).
@@ -241,7 +241,7 @@ _Скоро буде._
 - Статус перекладу: неофіційний
 - Стан перекладу: завершений
 - Вебсайт: [https://andygol-helm.netlify.app/uk/](https://andygol-helm.netlify.app/uk/) ([en](https://helm.sh/))
-- Система перекладу: GitHub — [https://github.com/Andygol/helm-www](https://github.com/Andygol/helm-www)
+- Система перекладу: GitHub — [https://github.com/Andygol/helm-www/tree/main-uk](https://github.com/Andygol/helm-www/tree/main-uk)
 - Мейнтейнери: [@Andygol](https://github.com/Andygol)
   
 #### [Документація] OpenTelemetry
@@ -249,7 +249,7 @@ _Скоро буде._
 - Статус перекладу: неофіційний
 - Стан перекладу: завершений, оновлений
 - Вебсайт: [https://andygol-otel.netlify.app/uk/](https://andygol-otel.netlify.app/uk/) ([en](https://opentelemetry.io/))
-- Система перекладу: GitHub — [https://github.com/Andygol/opentelemetry.io](https://github.com/Andygol/opentelemetry.io)
+- Система перекладу: GitHub — [https://github.com/Andygol/opentelemetry.io/tree/main-uk](https://github.com/Andygol/opentelemetry.io/tree/main-uk)
 - Мейнтейнери: [@Andygol](https://github.com/Andygol)
 
 ## Навчання
