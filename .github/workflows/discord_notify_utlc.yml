@@ -1,0 +1,26 @@
+# Discord notify for a Ukrainian community--UTLC (#other-projects-alerts channel)
+name: Discord Notify
+
+on:
+  pull_request_target:
+    types: [closed, opened, reopened, ready_for_review]
+
+permissions: {}
+
+jobs:
+  notify:
+    if: github.repository == 'alinkedd/uk-tech-l10n-list'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Discord Webhook Action (UTLC)
+        uses: tsickert/discord-webhook@v6.0.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL_UTLC }}
+          embed-author-name: ${{ github.triggering_actor.login }}
+          embed-author-url: ${{ github.triggering_actor.html_url }}
+          embed-author-icon-url: ${{ github.triggering_actor.avatar_url }}
+          embed-title: "${{ github.event.action == 'closed' && github.event.pull_request.merged == true && 'merged' || github.event.action }} #${{ github.event.number }}: ${{ github.event.pull_request.title }}"
+          embed-description: ${{ github.event.pull_request.body }}
+          embed-url: ${{ github.event.pull_request.html_url }}
+          embed-footer-text: >
+            (+${{github.event.pull_request.additions}} -${{github.event.pull_request.deletions}})
